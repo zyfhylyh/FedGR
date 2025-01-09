@@ -1,2 +1,2 @@
 # FedGR
-We will release our code after the paper is accepted.
+Please send an email to me if you want to use our code.
